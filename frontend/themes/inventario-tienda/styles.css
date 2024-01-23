@@ -1,0 +1,5 @@
+@import url('./main-layout.css');
+@import url('./views/listar-producto-view.css');
+@import url('./views/agregar-producto-view.css');
+@import url('./views/modificar-stock-view.css');
+@import url('./views/eliminar-producto-view.css');
